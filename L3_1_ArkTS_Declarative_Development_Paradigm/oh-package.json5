@@ -1,0 +1,13 @@
+{
+  "name": "l3_1_arkts_declarative_development_paradigm",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}
